@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         int millis = 5000;
         int version = 55;
-        String url = "svn://112.74.182.63/icessm";
+        String url = "svn://127.0.0.1/web";
         Setting setting = new Setting("svninfo.txt");
         millis = setting.getInt("millis", millis);
         version = setting.getInt("version", version);

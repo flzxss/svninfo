@@ -47,13 +47,3 @@ public class SvnMonitor {
     }
 
 }
-// Path: icessm
-// URL: svn://112.74.182.63/icessm
-// Relative URL: ^/icessm
-// Repository Root: svn://112.74.182.63
-// Repository UUID: e6041ee2-9d01-d747-b01e-c59bff143e4a
-// Revision: 55
-// Node Kind: directory
-// Last Changed Author: zs
-// Last Changed Rev: 55
-// Last Changed Date: 2018-03-01 14:52:13 +0800 (周四, 01 三月 2018)
